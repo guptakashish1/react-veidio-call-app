@@ -1,8 +1,10 @@
 React Video Call
+
 Welcome to the React Video Call App, a real-time video calling application that allows users to connect with each other, providing the ability to initiate video calls and control their audio and video settings.
 
 
 Features
+
 Initiate video calls with other users.
 Mute/unmute your microphone during a call.
 Enable/disable your camera during a call.
@@ -12,6 +14,7 @@ Built with React, Context API, Ant Design, React Bootstrap, Aphrodite, React Cop
 
 
 Technologies Used
+
 React: A JavaScript library for building user interfaces.
 Context API: Used for managing application-wide state and providing data to components.
 WebRTC: A real-time communication technology for video and audio transmission.
